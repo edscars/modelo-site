@@ -38,3 +38,16 @@ h3 {
        text-align: right;
        color: #038C7F;
    }
+ a {
+       text-decoration: none;
+     color: #038C7F;
+   }
+   
+   a:hover{
+
+     color: #076969;
+   }
+   a:active {
+
+     color: #01403A;
+   }
